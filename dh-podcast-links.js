@@ -47,6 +47,7 @@
     li: `
       list-style: none;
       margin: 25px;
+      display: inline-block; 
       `,
     img: `
       width: 2rem;
