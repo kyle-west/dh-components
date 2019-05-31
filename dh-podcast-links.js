@@ -46,12 +46,12 @@
     `,
     li: `
       list-style: none;
-      display: inline-block; 
       margin: 25px;
-    `,
+      `,
     img: `
-      width: 1.3rem;
-      height: 1.3rem;
+      width: 2rem;
+      height: 2rem;
+      display: inline-block; 
       vertical-align: middle;
       margin-right: 5px;
       text-decoration: none;

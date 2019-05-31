@@ -11,7 +11,7 @@ This component hosts all of the active links to where you can listen to the deta
 Usage:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/kyle-west/dh-components/dh-podcast-links.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kyle-west/dh-components@latest/dh-podcast-links.js"></script>
 
 ...
 
