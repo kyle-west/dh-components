@@ -2,39 +2,39 @@
   const hosts = {
     "Apple Podcasts": { 
       url: "https://podcasts.apple.com/us/podcast/detachedhead/id1464078091",
-      icon: "./assets/icons/apple.ico"
+      icon: "https://cdn.jsdelivr.net/gh/kyle-west/dh-components/assets/icons/apple.ico"
     },
     "Google Podcasts": { 
       url: "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84NmQzODBjL3BvZGNhc3QvcnNz",
-      icon: "./assets/icons/google.png"
+      icon: "https://cdn.jsdelivr.net/gh/kyle-west/dh-components/assets/icons/google.png"
     },
     "Spotify": { 
       url: "https://open.spotify.com/show/0BttTlSolUMb77KPEr3Ejs",
-      icon: "./assets/icons/spotify.png"
+      icon: "https://cdn.jsdelivr.net/gh/kyle-west/dh-components/assets/icons/spotify.png"
     },
     "Stitcher": { 
       url: "https://www.stitcher.com/podcast/anchor-podcasts/detachedhead",
-      icon: "./assets/icons/stitcher.png"
+      icon: "https://cdn.jsdelivr.net/gh/kyle-west/dh-components/assets/icons/stitcher.png"
     },
     "Overcast": { 
       url: "https://overcast.fm/itunes1464078091/detachedhead",
-      icon: "./assets/icons/overcast.ico"
+      icon: "https://cdn.jsdelivr.net/gh/kyle-west/dh-components/assets/icons/overcast.ico"
     },
     "Pocket Casts": { 
       url: "https://pca.st/8s0X",
-      icon: "./assets/icons/pocketcast.ico"
+      icon: "https://cdn.jsdelivr.net/gh/kyle-west/dh-components/assets/icons/pocketcast.ico"
     },
     "Breaker": { 
       url: "https://www.breaker.audio/detachedhead",
-      icon: "./assets/icons/breaker.ico"
+      icon: "https://cdn.jsdelivr.net/gh/kyle-west/dh-components/assets/icons/breaker.ico"
     },
     "RadioPublic": { 
       url: "https://radiopublic.com/detachedhead-6BpEaq",
-      icon: "./assets/icons/radiopublic.png"
+      icon: "https://cdn.jsdelivr.net/gh/kyle-west/dh-components/assets/icons/radiopublic.png"
     },
     "Anchor": { 
       url: "https://anchor.fm/detachedhead",
-      icon: "./assets/icons/anchor.png"
+      icon: "https://cdn.jsdelivr.net/gh/kyle-west/dh-components/assets/icons/anchor.png"
     }
   }
 
