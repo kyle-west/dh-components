@@ -8,7 +8,7 @@ This repo serves as a collection of web components used on the [`detachedHEAD` b
 
 This component hosts all of the active links to where you can listen to the detachedHEAD Podcast.
 
-Usage:
+### Usage:
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/kyle-west/dh-components@latest/dh-podcast-links.js"></script>
@@ -24,7 +24,7 @@ Additionally you can add a callback function for when the user clicks on one of 
 
 ```html
 <script>
-  function someoneClickedOnOfTheLinks (company, data, event) {
+  function someoneClickedOneOfTheLinks (company, data, event) {
     // INCOMING DATA IS OF THE FORM:
     // company --- "Spotify"
     // data    --- {url: "https://open.spotify…", icon: "./asset…"} 
@@ -32,5 +32,5 @@ Additionally you can add a callback function for when the user clicks on one of 
   }
 </script>
 
-<dh-podcast-links on-link-click="someoneClickedOnOfTheLinks"></dh-podcast-links>
+<dh-podcast-links on-link-click="someoneClickedOneOfTheLinks"></dh-podcast-links>
 ```
